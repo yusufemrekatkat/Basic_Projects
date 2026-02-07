@@ -1,12 +1,3 @@
-# 🛒 E-Commerce Product Strategy Portfolio
-
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Scikit--Learn-orange)
-![Focus](https://img.shields.io/badge/Focus-Product%20Management-success)
-
-Applied mathematical modeling and machine learning analyses to drive data-oriented product decisions.
-
----
 
 ### 1. 📉 Churn Prediction (Retention)
 **Goal:** To protect profitability by proactively identifying and preventing customer churn.
