@@ -17,15 +17,3 @@
 <img width="762" height="478" alt="pricing-graph" src="https://github.com/user-attachments/assets/b494f88f-1b56-451f-938f-f56bdd14dab9" />
 
 
----
-
-### 3. 🛡️ Fraud Detection (Trust)
-**Goal:** To detect financial anomalies in real-time without labeled historical data.
-* **Method:** Isolation Forest (Unsupervised Learning)
-* **Key Insight:** Successfully isolated "low-value but high-frequency" **bot attacks** that traditional rule-based systems often fail to detect.
-
-<img width="768" height="468" alt="fraud-graph" src="https://github.com/user-attachments/assets/f2f2fb4b-0fe6-418d-91ad-457a1bbc3055" />
-
----
-
-**Author:** Yusuf Emre Katkat | Mathematical Engineering Student 
