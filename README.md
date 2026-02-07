@@ -28,7 +28,7 @@ Applied mathematical modeling and machine learning analyses to drive data-orient
 
 ---
 
-### 3. 🛡️ SENTINEL: Fraud Detection (Trust)
+### 3. 🛡️ Fraud Detection (Trust)
 **Goal:** To detect financial anomalies in real-time without labeled historical data.
 * **Method:** Isolation Forest (Unsupervised Learning)
 * **Key Insight:** Successfully isolated "low-value but high-frequency" **bot attacks** that traditional rule-based systems often fail to detect.
